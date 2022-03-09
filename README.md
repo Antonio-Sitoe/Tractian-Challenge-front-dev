@@ -13,5 +13,6 @@ O desafio consiste em construir uma landing page da página inicial da Tractian 
   - Next.JS (ReactJS);
   - Typescript.
   - Styled-components.
-  - splidejs/react-splide - biblioteca de carousel e slides.
-### 
+  - splidejs/react-splide - biblioteca de carousel e slides. 
+
+### <a href="https://tractian-challenge-front-dev.vercel.app/">Live</a>
